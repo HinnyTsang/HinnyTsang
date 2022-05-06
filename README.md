@@ -6,3 +6,5 @@ In the [LeetCode](https://github.com/HinnyTsang/LeetCode) repository, I have wri
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HinnyTsang&theme=dark)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HinnyTsan&show_icons=true&theme=dark)
+
