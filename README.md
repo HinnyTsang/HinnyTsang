@@ -90,3 +90,7 @@ Learn more about me from my [personal website](https://hinnytsang.github.io/)!
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HinnyTsang&show_icons=true&theme=dark"/>
 </p>
+
+<p align="center">
+    <img src="https://leetcode.card.workers.dev/HinnyTsang?theme=auto&font=baloo&extension=activity" />
+</p>
