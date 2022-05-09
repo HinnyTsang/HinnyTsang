@@ -81,7 +81,7 @@ Check some fun toy simulation code through [here](https://hinnytsang.github.io/#
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="hinnytsang" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=10" alt="hinnytsang" />
 </p>
 
 <p align="center">
