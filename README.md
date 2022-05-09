@@ -14,7 +14,7 @@ Check some fun toy simulation code through [here](https://hinnytsang.github.io/#
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hinnytsang" alt="hinnytsang" />
+        <img src="https://github-profile-trophy.vercel.app/?username=hinnytsang&theme=discord&no-frame=true" alt="hinnytsang" />
     </a> 
 </p>
 
@@ -81,7 +81,7 @@ Check some fun toy simulation code through [here](https://hinnytsang.github.io/#
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact" alt="hinnytsang" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="hinnytsang" />
 </p>
 
 <p align="center">
