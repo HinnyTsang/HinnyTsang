@@ -80,18 +80,22 @@ Check some fun toy simulation code through [here](https://hinnytsang.github.io/#
     </a> 
 </p>
 
+<!-- Most used language -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook&langs_count=10" alt="hinnytsang" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hinnytsang&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook" alt="hinnytsang" />
 </p>
 
+<!-- github steaks -->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinnyTsang&theme=dark"/>
 </p>
 
+<!-- github stats -->
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HinnyTsang&show_icons=true&theme=dark"/>
 </p>
 
+<!-- leetcode -->
 <p align="center">
     <img src="https://leetcode.card.workers.dev/HinnyTsang?theme=auto&font=baloo&extension=activity" />
 </p>
