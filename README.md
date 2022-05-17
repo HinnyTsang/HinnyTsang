@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Hinny Tsang</h1>
 <h3 align="center">A Physics student in Hong Kong</h3>
 
-Learn more about me from my [personal website](https://hinnytsang.github.io/)!
+Learn more about me from my [personal website](https://www.my-universe.hinnytsang.com/)!
 Check some fun toy simulation code through [here](https://hinnytsang.github.io/#/simulation/)!
 
 
