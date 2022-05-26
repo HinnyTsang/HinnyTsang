@@ -8,9 +8,9 @@ Learn more about me from my [personal website](https://www.my-universe.hinnytsan
 Check some fun toy simulation code through [here](https://hinnytsang.github.io/#/simulation/)!
 
 
-<p align="left"> 
+<!-- <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hinnytsang&label=Profile%20views&color=0e75b6&style=flat" alt="hinnytsang" /> 
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
