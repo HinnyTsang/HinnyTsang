@@ -100,5 +100,5 @@ Check some fun toy simulation code through [here](https://hinnytsang.github.io/#
 
 <!-- leetcode -->
 <p align="center">
-    <img src="https://leetcode.card.workers.dev/HinnyTsang?theme=auto&font=baloo&extension=activity" />
+    <img src="https://leetcode.card.workers.dev/HinnyTsang?theme=dark&font=source_code_pro&extension=activity" />
 </p>
