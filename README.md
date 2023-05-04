@@ -29,19 +29,19 @@ Learn more about me from my [personal website](https://www.my-universe.hinnytsan
 </h3>
 
 <!-- Most used language -->
-<p align="center">
+<!-- <p align="center">
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinnytsang&size_weight=0.5&count_weight=0.5&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook" 
          alt="hinnytsang" 
     />
-</p>
+</p> -->
 <!-- github steaks -->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HinnyTsang&theme=dark"/>
 </p>
 
 <!-- github stats -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HinnyTsang&show_icons=true&theme=dark"/>
 </p>
-
+ -->
