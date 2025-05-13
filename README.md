@@ -8,6 +8,8 @@
 
 Learn more about me from my [personal website](https://www.my-universe.hinnytsang.com/) and discover some toy simulation model!
 
+You may also check my blogs on [here](https://www.my-universe.hinnytsang.com/knowledge-base/blog). 
+
 <h3 align="left">
     Connect with me:
     <a href="https://linkedin.com/in/hinnytsang" target="blank">
