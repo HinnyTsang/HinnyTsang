@@ -6,7 +6,7 @@
 
 Learn more about me from my [personal website](https://www.my-universe.hinnytsang.com/) and discover some toy simulation model!
 
-Check out my [blog](https://www.my-universe.hinnytsang.com/knowledge-base/blog). 
+Check out my [blog](https://www.my-universe.hinnytsang.com/knowledge-base/). 
 
 <h3 align="center">
     <a href="https://linkedin.com/in/hinnytsang" target="blank">
