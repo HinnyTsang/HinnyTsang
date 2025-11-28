@@ -23,3 +23,5 @@ Check out my [blog](https://www.my-universe.hinnytsang.com/knowledge-base/).
 </h3>
 
 
+![leetcode calendar](https://leetcode-solved-problems.vercel.app/api?username=hinnytsang&name=hinnytsang&type=calendar)
+
