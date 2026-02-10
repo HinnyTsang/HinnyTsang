@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=hinnytsang&label=Profile%20views&color=0e75b6&style=flat" alt="hinnytsang" /> 
 </p>
 
-Learn more about me from my [personal website](https://www.my-universe.hinnytsang.com/) and discover some toy simulation model!
+[Profile](https://www.my-universe.hinnytsang.com/)
 
 <!-- Check out my [blog](https://www.my-universe.hinnytsang.com/knowledge-base/). -->
 
