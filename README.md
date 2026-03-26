@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://www.my-universe.hinnytsang.com/">my-universe.hinnytsang.com</a>  
+  🌐 <a href="https://my-universe.hinnytsang.com/">my-universe.hinnytsang.com</a>  
   <!-- 📝 Check out my <a href="https://www.my-universe.hinnytsang.com/knowledge-base/">knowledge base / blog</a> (uncomment when ready) -->
 </p>
 
